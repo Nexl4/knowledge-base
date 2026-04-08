@@ -1,0 +1,6 @@
+site_name: Knowledge Base
+
+nav:
+  - Home: index.md
+  - Troubleshooting:
+      - Tuta sync issue: troubleshooting/tuta-local-data-out-of-sync-error.md
