@@ -1,4 +1,5 @@
 nav:
   - Home: index.md
   - Troubleshooting:
-      - Tuta sync issue: troubleshooting/tuta-local-data-out-of-sync-error.md
+      - Tuta sync issue: Troubleshooting/tuta-local-data-out-of-sync-error.md
+
